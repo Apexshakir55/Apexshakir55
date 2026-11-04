@@ -26,7 +26,7 @@ Senior Oracle APEX developer with a track record of designing and delivering sca
 **Low-code & Database**
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20APEX%204.2%20→%2026.2-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20DB%2012c%20|%2019c%20|%2021c-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/PL%2FSQL-00758F?style=for-the-badge&logo=oracle&logoColor=white" />
