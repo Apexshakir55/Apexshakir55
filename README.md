@@ -71,6 +71,7 @@ Senior Oracle APEX developer with a track record of designing and delivering sca
 
 | Project | Description |
 |---|---|
+| 🧶 [**Yarn ERP**](https://github.com/Apexshakir55/yarn-erp) · [Live Demo](https://ga6d0e298fbcd4d-shakir.adb.me-abudhabi-1.oraclecloudapps.com/ords/r/test_db/yarn-erp/login) | Yarn trading & processing ERP on Oracle APEX 26.1 / OCI: lot-based costing, dyeing & winding, cheques, lot traceability, profit analysis and a bilingual (EN / اردو) AI assistant |
 | [face-api-models-host](https://github.com/Apexshakir55/face-api-models-host) | Hosts pre-trained face-api.js model files for in-browser face detection in APEX / web apps |
 
 ---
