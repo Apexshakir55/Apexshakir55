@@ -72,6 +72,7 @@ Senior Oracle APEX developer with a track record of designing and delivering sca
 | Project | Description |
 |---|---|
 | 🧶 [**Yarn ERP**](https://github.com/Apexshakir55/yarn-erp) · [Live Demo](https://ga6d0e298fbcd4d-shakir.adb.me-abudhabi-1.oraclecloudapps.com/ords/r/test_db/yarn-erp/login) | Yarn trading & processing ERP on Oracle APEX 26.1 / OCI: lot-based costing, dyeing & winding, cheques, PDF / WhatsApp documents, face & fingerprint login (WebAuthn) with multi-factor auth, mobile-responsive grids and a bilingual (EN / اردو) AI assistant · Demo login: `Demo` / `Demo123456` |
+| 🤖 [**Rehbar · AI IT Help Desk**](https://github.com/Apexshakir55/rehbar-it-helpdesk) · [Live Demo](https://ga6d0e298fbcd4d-shakir.adb.me-abudhabi-1.oraclecloudapps.com/ords/r/test_db/it-chatbot/) | AI-first IT service desk on Oracle APEX 26.1: **Google Gemini RAG** over an in-database knowledge base with cited sources, AI ticket drafts, **Active Directory login & Windows SSO**, engineer desk, directory sync, configurable integrations, admin branding · Demo login: `demo` / `Demo@12345` |
 | [face-api-models-host](https://github.com/Apexshakir55/face-api-models-host) | Hosts pre-trained face-api.js model files for in-browser face detection in APEX / web apps |
 
 ---
